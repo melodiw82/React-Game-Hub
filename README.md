@@ -9,7 +9,7 @@
 
 <p>GameHub is a web application built with React, TypeScript, vite and chakra-ui that allows users to discover and explore video games using the RAWG API.</p>
 <p>GameHub is currently under active development.</p>
-<img src="https://github.com/melodiw82/React-Game-Hub/blob/main/public/photo_2023-08-07_11-22-05.jpg">
+<img src="https://github.com/melodiw82/React-Game-Hub/blob/main/public/Screenshot%20(1).png">
 
 
 <h2>Technologies Used</h2>
@@ -31,6 +31,7 @@
     <li>Start the development server using <code>npm run dev</code>.</li>
     <li>Open the link.</li>
   </ul>
+  <b>API requires vpn if you're Iranian, otherwise it would throw 'Network error'</b>
 
 
   <h2> Features</h2>
@@ -40,7 +41,7 @@
 - Game ratings: Users can see the overall rating and individual user ratings for a game.
 - Responsive design: The application is designed to be fully responsive and accessible on different devices.
 
-  <img src="https://github.com/melodiw82/React-Game-Hub/blob/main/public/photo_2023-08-07_11-21-59.jpg">
+  <img src="https://github.com/melodiw82/React-Game-Hub/blob/main/public/Screenshot%20(2).png">
 
 </body>
 </html>
