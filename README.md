@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <h1>GameHub React Projec</h1>
+    <h1>GameHub React Project</h1>
 
 <p>GameHub is a web application built with React, TypeScript, vite and chakra-ui that allows users to discover and explore video games using the RAWG API.</p>
 <p>GameHub is currently under active development.</p>
